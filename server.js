@@ -16,7 +16,7 @@ app.use(express.static(__dirname + '/public'));
 require('pg'); // explicitly require the "pg" module
 const Sequelize = require('sequelize'); */
 
-console.log("Manualla Kurkeice - 163009228")
+//console.log("Manualla Kurkeice - 163009228")
 
 //im using the arrow function - ES6 function syntax
 const helloWorld = () => {        
