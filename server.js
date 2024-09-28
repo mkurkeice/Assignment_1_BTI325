@@ -11,10 +11,10 @@
 ********************************************************************************/ 
 
 
-/* app.set('views', __dirname + '/views');
+app.set('views', __dirname + '/views');
 app.use(express.static(__dirname + '/public'));
 require('pg'); // explicitly require the "pg" module
-const Sequelize = require('sequelize'); */
+const Sequelize = require('sequelize'); 
 
 //console.log("Manualla Kurkeice - 163009228")
 
