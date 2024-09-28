@@ -8,8 +8,5 @@
     "start": "node server.js"
   },
   "author": "Manualla Kurkeice 163009228",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.21.0"
-  }
+  "license": "ISC"  
 }
