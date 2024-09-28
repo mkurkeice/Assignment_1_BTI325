@@ -21,5 +21,5 @@ const Sequelize = require('sequelize'); */
 //im using the arrow function - ES6 function syntax
 const helloWorld = () => {        
     console.log("Manualla Kurkeice - 163009228")
-}
+} 
 helloWorld();
