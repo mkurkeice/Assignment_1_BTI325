@@ -6,7 +6,7 @@
 * 
 *  Name: _Manualla_Kurkeice__ Student ID: __163009228___ Date: ___9/26/2024____
 *
-*  Online (Vercel) URL: __https://assignment-1-bti-325-m9ayul7po-manualla-kurkeices-projects.vercel.app__
+*  Online (Vercel) URL: __https://assignment-1-bti-325-git-main-manualla-kurkeices-projects.vercel.app/__
 *
 ********************************************************************************/ 
 
